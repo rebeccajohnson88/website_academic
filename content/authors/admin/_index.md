@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rebecca Johnson
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Quantitative Social Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Dartmouth College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: .
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Social Science/Data Science
+- Social Policy
+- Ethics
+- Education/Health
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Demography, Sociology, and Social Policy
+    institution: Princeton University
+    year: 2020
+  - course: BA, MA
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +43,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rebecca.ann.johnson@dartmouth.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/beckyj1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=UNZpOpcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rebeccajohnson88
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my site! I'm an Assistant Professor at Dartmouth College in [https://qss.dartmouth.edu/](Quantitative Social Science). I'm also a Access to Justice Faculty Scholar with the [http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html](American Bar Foundation), an academic affiliate with the federal [https://oes.gsa.gov/team/](Office of Evaluation Sciences), and a visiting Data Science Fellow with [https://thelab.dc.gov/](The Lab at DC).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research studies how social service bureaucracies prioritize amidst limited resources. My dissertation research examined prioritization in school districts. It shows how districts facing budget pressure use discretion to decide that fewer students fall into prioritized categories and uses computational text analysis of legal cases to show how parents reduce this discretion. Newer research studies and aids government agencies in using large-scale data and predictive modeling for more equitable prioritization. As a 2018 Summer Fellow with Data Science for Social Good, we collaborated with the NYC Mayor’s Public Engagement Unit to develop a predictive model to prioritize outreach to rental tenants at risk of landlord harassment.
+
+
