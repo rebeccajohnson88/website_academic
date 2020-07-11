@@ -31,6 +31,9 @@ education:
   - course: PhD in Demography, Sociology, and Social Policy
     institution: Princeton University
     year: 2020
+  - course: Pre-Doctoral Fellow, Department of Bioethics
+    institution: National Institutes of Health
+    year: 2012-2014
   - course: BA, MA
     institution: Stanford University
     year: 2012
@@ -70,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my site! I'm an Assistant Professor at Dartmouth College in <a href="https://qss.dartmouth.edu/">Quantitative Social Science</a>. I'm also an Access to Justice Faculty Scholar with the <a href="http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html">American Bar Foundation</a>, an an academic affiliate with the federal <a href="https://oes.gsa.gov/team/">Office of Evaluation Sciences</a>, and a visiting Data Science Fellow with <a href="https://thelab.dc.gov/">The Lab at DC</a>.
+Welcome to my site! I'm an Assistant Professor at Dartmouth College in <a href="https://qss.dartmouth.edu/">Quantitative Social Science</a>. I'm also an Access to Justice Faculty Scholar with the <a href="http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html">American Bar Foundation</a>, an academic affiliate with the federal <a href="https://oes.gsa.gov/team/">Office of Evaluation Sciences</a>, and a visiting Data Science Fellow with <a href="https://thelab.dc.gov/">The Lab at DC</a>.
 
 My research studies the ethics and law of how social service bureaucracies prioritize amidst limited resources. My dissertation research examined prioritization in school districts. It shows how districts facing budget pressure use discretion to decide that fewer students fall into prioritized categories and uses computational text analysis of legal cases to show how parents reduce this discretion. Newer research studies and aids government agencies in using large-scale data and predictive modeling for more equitable prioritization. As a 2018 Summer Fellow with Data Science for Social Good, we collaborated with the NYC Mayor’s Public Engagement Unit to develop a predictive model to prioritize outreach to rental tenants at risk of landlord harassment.
 
