@@ -77,4 +77,6 @@ Welcome to my site! I'm an Assistant Professor at Dartmouth College in <a href="
 
 My research studies the ethics and law of how social service bureaucracies prioritize amidst limited resources. My dissertation research examined prioritization in school districts. It shows how districts facing budget pressure use discretion to decide that fewer students fall into prioritized categories and uses computational text analysis of legal cases to show how parents reduce this discretion. Newer research studies and aids government agencies in using large-scale data and predictive modeling for more equitable prioritization. As a 2018 Summer Fellow with Data Science for Social Good, we collaborated with the NYC Mayor’s Public Engagement Unit to develop a predictive model to prioritize outreach to rental tenants at risk of landlord harassment.
 
+{{% staticref "files/rjohnson_cv.pdf" %}}Download my CV{{% /staticref %}}.
+
 
