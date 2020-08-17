@@ -8,6 +8,16 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "Research"
+  url = "research/"
+  weight = 20
+
+[[main]]
+  name = "CV"
+  url = "files/rjohnson_cv.pdf"
+  weight = 30  
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -28,9 +38,4 @@
 #  url = "#contact"
 #  weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+
