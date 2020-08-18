@@ -55,7 +55,7 @@ Overall, the study's results aim to contribute to two literatures on reducing so
 
 - [Pre-Analysis Plan](https://oes.gsa.gov/assets/analysis/1732-3-Analysis-Plan.pdf/)
 - [Forthcoming Conference Talk](https://appam.confex.com/appam/2020/meetingapp.cgi/Paper/38008)
-- Collaborators: [Office of Evaluation Sciences](https://oes.gsa.gov/)
+- Collaborators: [Office of Evaluation Sciences](https://oes.gsa.gov/)([Michael DiDomenico](https://oes.gsa.gov/team/michael-didomenico/); [Mary Clair Turner](https://oes.gsa.gov/team/mary-clair-turner/); [Rekha Balu](https://oes.gsa.gov/team/rekha-balu/))
 
 
 
