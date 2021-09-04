@@ -73,10 +73,18 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my site! I'm an Assistant Professor at Dartmouth College in <a href="https://qss.dartmouth.edu/">Quantitative Social Science</a>. I'm also a 2020-2021 Access to Justice Faculty Scholar with the <a href="http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html">American Bar Foundation</a>, an academic affiliate with the federal <a href="https://oes.gsa.gov/team/">Office of Evaluation Sciences</a>, and a visiting Data Science Fellow with <a href="https://thelab.dc.gov/">The Lab at DC</a>.
+Welcome to my site! I'm an Assistant Professor at Dartmouth College in <a href="https://qss.dartmouth.edu/">Quantitative Social Science</a>, affilited with the Department of Sociology and Consortium of Studies in Race, Migration, and Sexuality (RMS). I'm also a 2020-2021 Access to Justice Faculty Scholar with the <a href="http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html">American Bar Foundation</a>, an academic affiliate with the federal <a href="https://oes.gsa.gov/team/">Office of Evaluation Sciences</a>, and a visiting Data Science Fellow with <a href="https://thelab.dc.gov/">The Lab at DC</a>.
 
-My research studies the ethics and law of how social service bureaucracies prioritize amidst limited resources. My dissertation research examined prioritization in school districts. It shows how districts facing budget pressure use discretion to decide that fewer students fall into prioritized categories and uses computational text analysis of legal cases to show how parents reduce this discretion. Newer research studies and aids government agencies in using large-scale data and predictive modeling for more <a href="https://dl.acm.org/doi/10.1145/3314344.3332484">equitable prioritization</a>.
+My research studies the ethics and law of how social service bureaucracies prioritize amidst limited resources and focuses particularly on prioritization in K-12 schools. Substantively, I study how underfunded K-12 districts navigate three forces: legal mandates about categories of students to prioritize, fiscal realities, and family advocacy. Methodologically, I use a variety of methods, including tools from causal inference, computational text analysis, machine learning, interviews, and field experiments with large-scale administrative data. Other research focuses on prioritization in other areas of social policy, including housing, COVID-19 relief, and civil rights enforcement.
 
-{{% staticref "files/rjohnson_cv.pdf" %}}View my CV{{% /staticref %}}
+{{% staticref "files/rjohnson_cv_website.pdf" %}}View my CV{{% /staticref %}}
+
+**Recent News**:
+
+- **August 2021**: I shared results from an RCT studying whether placing college navigators in public housing reduces race and SES inequalities in postsecondary education at the American Sociological Association paper session on Causes and Consequences of Educational Inequality
+- **July 2021**: my work with Dartmouth QSS students connecting data science coursework to efforts to improve labor rights enforcement was featured in this _Dartmouth News Weekly_ article: <a href="https://home.dartmouth.edu/news/2021/08/students-inspired-qss-tool-social-change">Students Inspired by QSS as a Tool for Social Change</a>
+- **May 2021**: I was awarded a CompX from Dartmouth's Neukom Institute for Computational Science to study the ethics and empirics of algorithms used by K-12 schools for resource prioritization:  <a href="https://neukom.dartmouth.edu/research/compx-faculty-grant-program/2021-grant-recipients"><2021 CompX awards>
+
+
 
 
