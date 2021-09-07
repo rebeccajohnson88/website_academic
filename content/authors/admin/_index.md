@@ -84,7 +84,7 @@ My research studies how social service bureaucracies use a mix of data and discr
 - **August 2021**: I shared results from an RCT studying whether placing college navigators in public housing reduces race and SES inequalities in postsecondary education at the American Sociological Association paper session on Causes and Consequences of Educational Inequality
 - **July 2021**: My work with Dartmouth QSS students connecting data science coursework to efforts to improve labor rights enforcement was featured in this _Dartmouth News Weekly_ article: <a href="https://home.dartmouth.edu/news/2021/08/students-inspired-qss-tool-social-change">Students Inspired by QSS as a Tool for Social Change</a>
 - **June 2021**: Looking forward to partnering with Texas Riogrande Legal Aid (TRLA) on a grant we were awarded from the <a href = "https://www.dol.gov/agencies/oasp/evaluation/currentstudies/Department-of-Labor-Summer-Data-Challenge">Department of Labor's Summer Data Challenge on Equity and Underserved Communities</a>. We'll be studying the role of computational tools in improving equity in oversight of H-2A employers.
-- **May 2021**: I was awarded a CompX from Dartmouth's Neukom Institute for Computational Science to study the ethics and empirics of algorithms used by K-12 schools for resource prioritization:  <a href="https://neukom.dartmouth.edu/research/compx-faculty-grant-program/2021-grant-recipients">2021 CompX awards</a>
+- **May 2021**: I was awarded a CompX grant from Dartmouth's Neukom Institute for Computational Science to study the ethics and empirics of algorithms used by K-12 schools for resource prioritization:  <a href="https://neukom.dartmouth.edu/research/compx-faculty-grant-program/2021-grant-recipients">2021 CompX awards</a>
 
 
 
