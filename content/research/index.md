@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Working Papers
 
 # View.
 #   1 = List
@@ -13,15 +13,32 @@ header:
   image: ""
 ---
 
-## Publications
+My working papers are divided into two areas:
 
-See my [Google Scholar](https://scholar.google.com/citations?user=UNZpOpcAAAAJ&hl=en) for published projects and please contact me for any PDFs behind paywalls!
+1. Field experiments aimed at improving prioritization, primarily in K-12 education
+2. Investigations of the adoption, perception, and impact of common prioritization methods in social service bureaucracies, with comparisons between manually-defined points systems, lotteries, beneficiary requests, and predictive models/algorithms 
 
-## In the Field
+## Area one: field experiments
 
-Here are a few projects that are currently in progress or "in the field"---either the field experiment is still ongoing or we have finished collecting data and are writing up results. 
+1. Johnson, DiDomenico, Balu, Turner. Navigating to Opportunity? A Randomized Controlled Trial of Placing College Navigators in Public Housing
 
-### Parent-Driven Prioritization: Legal Categories and Student Inequality
+![Map of randomization sites](/static/img/amps_v_pov.pdf)
+
+**Abstract:** There are persistent socioeconomic and racial disparities in U.S. postsecondary enrollment. Yet there remains a gap between the modal type of intervention---``nudge-type’’ interventions that leave a teenager's neighborhood and school context unaltered---and rarer interventions that alter this context by either promoting mobility out of them or investing mentorship resources into them. Past studies of whether mentors help either lack racial diversity or prioritize “efficiency'' over equity, offering mentors to students identified as promising candidates rather than anyone who might need one. The present study helps address gaps between theories of gaps and interventions to reduce them. We present the first results from a field experiment (Project SOAR) where the U.S. Department of Housing and Urban Development (HUD) provided over \$2 million to nine public housing authorities (PHAs) to hire “education navigators,” physically located at the housing site, to help resident teenagers apply for financial aid and attend college, residents eligible by age rather than college promise. In an experimental analysis with four PHAs in SOAR where we randomized access to college navigators (N = 3,834 residents; 96\% Black or Hispanic/Latino; median household income ~\$17,000), we find no statistically significant impact of access to navigators on postsecondary outcomes, results confirmed in a quasi-experimental synthetic control analysis of the five remaining PHAs. Finally, we use a mix of two data sources---qualitative site visit data; computational text analysis of detailed logs that navigators kept on their interactions with residents---to explore mechanisms for why the intervention did not produce hoped for impacts on stratification. 
+
+- [Working Paper](https://www.dropbox.com/s/4ipz42ueuprjl86/rjohnson_navigatorspublichousing_writingsample.pdf?dl=0)
+- [Pre-Analysis Plan](https://oes.gsa.gov/assets/analysis/1732-3-Analysis-Plan.pdf/)
+- [APPAM Talk](https://appam.confex.com/appam/2020/meetingapp.cgi/Paper/38008)
+
+2. Johnson and Mei. Technology and Educational Triage: Evidence from Large-Scale Messaging Data
+
+**Abstract for text analysis**: A large body of research documents inequalities in family-school interactions. Yet the methodologies used---either intensive ethnographic observation of families and teachers or survey-based measures that ask families to self-report their school involvement---create gaps in our understanding of how family-school interactions impact inequality. These gaps became more apparent during COVID-19, as policy concerns emerged about families “disappearing’’ from contact during virtual learning confronted methods ill-suited to measure these changes. The present project draws upon a randomized controlled trial of “TeacherText”, a web and mobile-based application that makes it easier for teachers and school administrators to interact with families (e.g., auto-translations; training on positive messages). We use large-scale metadata and messaging data from the platform (~340,000 messages between 208 school staff and 4,298 parent-student dyads; 6 DC Public and Public Charter schools; messaging in 2019-2020 before and during COVID-19 online pivots), linked to administrative data from the district’s student information system (SIS), to investigate two questions about family-school interactions during virtual pivots. First, we show that when examining interactions longitudinally, disappearance from contact is much rarer than two other statuses: interactions both before and after the COVID-19 virtual pivot (modal status) or no interactions either period. Then, we use text analysis to highlight two mechanisms for how school staff continued to engage families: the use of tools to simultaneously interact with many families and the platform expanding beyond academic-focused messages to messages connecting families with social services. Concluding, we discuss the benefits and challenges of using “digital trace data” to measure family-school interactions.
+
+- [Pre-Analysis Plan](https://osf.io/jhmns/)
+
+## Area two: prioritization in social service bureaucracies 
+
+1. Johnson. Rationing via Categorical Discretion: Unequal Monitoring of School Decisions and Stratification
 
 **Abstract**: This project investigates how school districts grapple with ethical dilemmas about whom to help as they navigate legal mandates that conflict with fiscal realities: state and federal requirements for districts to prioritize certain categories of students coupled with prohibitions on allowing cost to influence decisions.
 
@@ -29,35 +46,8 @@ My research shows that these mandates do not eliminate rationing.  Rather, they 
 
 
 - [American Bar Foundation/JPB Foundation Access to Justice Scholarship](http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html)
+- [Working Paper](https://www.dropbox.com/home/writingsamples_fall21?preview=rjohnson_discretionIEPs_writingsample.pdf)
 - [Conference Presentation on Categories and Spillover Effects](https://conference.nber.org/conferences/2018/CHEDs18/summary1.html)
 - [Conference Presentation on Unequal Discretion to Ration](https://convention2.allacademic.com/one/asa/asa17/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1254808&PHPSESSID=fsefc6gkk4paan7nriobkdkvbi)
-
-
-### Can Technology Help Reduce Barriers to Families Engaging with K-12 Schools?
-
-**Abstract**: To succeed in school, students have to be present. Families support student atten-dance through mechanisms like transportation, encouragement, and communicatingwith schools about excused absences, but schools can struggle to engage families. Much existing evidence on absenteeism interventions is based on approaches to family engagement where schools use one-way communications to inform families about negative events, like absenteeism. Our planned study will evaluate a web and mobile application specifically designed for teachers to engage families in positive, two-way communications about students’ attendance. With the Washington, DC, Office of the Deputy Mayor for Education (DME) and 6 public schools, we’re testing whether giving teachers training and a family engagement app improves student attendance. The findings will shape the District’s strategies for improving student attendance and investing in education technology.
-
-- [Pre-Analysis Plan](https://osf.io/jhmns/)
-- [Conference Talk on Natural Language Processing Component](https://events.rdmobile.com/Sessions/Details/1011986)
-- Collaborators: [The Lab at DC](http://thelabprojects.dc.gov/) (Vicky Mei; [Chrysanthi Hatzisamoura](https://gwipp.gwu.edu/chrysanthi-hatzimasoura-research-professor); Katherine Gan)
-
-### Can College Navigators in Public Housing Help Reduce Inequalities in Postsecondary Outcomes?
-
-**Abstract**: Researchers have tested a variety of interventions to promote FAFSA completion and postsecondary enrollment among low-income students. Many debates about the efficacy of these interventions focus on the strength of the intervention. But an important second dimension is which students the interventions target.
-
-This study, a HUD-funded evaluation, presents results from a unique intervention design where on-the-ground actors shape the strength of the intervention. In the study, the Office of Evaluation Sciences (OES) at the U.S. General Services Administration, the U.S. Department of Housing and Urban Development's (HUD's) Office of Policy Development and Research (PD&R), and the U.S. Department of Education (ED) partnered to evaluate a HUD demonstration project (Project SOAR) that placed college navigators in public housing sites to assist youth residents aged 15-20 with FAFSA completion, college planning, and financial literacy. In four public housing agencies (PHAs)---Chicago; Philadelphia; Seattle; and Los Angeles---buildings were randomized so that college navigators would serve those in the buildings, comprising approximately half the youth in the PHA (analytic sample: N = 1231, N = 1300, N = 713; N = 1444 respectively). In five PHAs---Milwaukee; Phoenix; Northwest Georgia; Prichard Alabama; High Point North Carolina---we use quasi-experimental methods to measure the impact.
-
-First, we use detailed, datestamped data on the interactions college navigators had with youth residents to investigate: what college-going interventions do navigators provide and to whom? The analysis shows that navigators deliver a mix of interventions ranging from lighter-touch informational outreach to more time-intensive in-person mentoring. Computational text analysis of navigators’ free-text notes shows variation within these categories. In addition to variation in what intervention is delivered, demographic data from HUD’s administrative records shows variation across subgroups in whom navigators engage at all.
-
-In the second part of the analysis, we link information from the study with student-level information on FAFSA completion, Pell receipt, and postsecondary enrollment. In the four experimental PHAs, we examine the causal effect of the navigators for the students living in the treatment buildings (ITT) and students living in those buildings who engaged with the navigator (CACE). In the five non-experimental PHAs, we use synthetic control and N = 2940 non-treated PHAs as the donor pool to compare trends pre and post navigator placement in the PHA. Results are forthcoming by the meeting, with details on the analysis pre-registered here. The study is powered to detect a 6-7 percentage point change in the primary outcome of FAFSA completion.
-
-Overall, the study's results aim to contribute to two literatures on reducing socioeconomic gaps in postsecondary attainment. First, building on a growing literature on the use of computational text analysis to study educational inequality, we will show how free text notes on interactions can be used to explore variation in an intervention’s delivery. Second, building on debates about how to effectively target college-going interventions, we will explore targeting within age eligibility.
-
-- [Pre-Analysis Plan](https://oes.gsa.gov/assets/analysis/1732-3-Analysis-Plan.pdf/)
-- [Forthcoming Conference Talk](https://appam.confex.com/appam/2020/meetingapp.cgi/Paper/38008)
-- Collaborators: [Office of Evaluation Sciences](https://oes.gsa.gov/)([Michael DiDomenico](https://oes.gsa.gov/team/michael-didomenico/); [Mary Clair Turner](https://oes.gsa.gov/team/mary-clair-turner/); [Rekha Balu](https://oes.gsa.gov/team/rekha-balu/))
-
-
-
 
 
