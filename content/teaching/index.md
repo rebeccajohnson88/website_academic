@@ -45,7 +45,7 @@ This course is meant to build upon your introductory programming course and to e
 - [API using National Assessment for Educational Progress](https://github.com/rebeccajohnson88/qss20_slides_activities/blob/main/activities/07_apis_examplecode_solutions.ipynb)
 - [Twitter scraping using politicians' profiles](https://github.com/rebeccajohnson88/qss20_slides_activities/blob/main/activities/07_apis_twitteractivity.ipynb)
 - [Data wrangling examining racial disparities in criminal justice sentencing](https://github.com/rebeccajohnson88/qss20_slides_activities/blob/main/problemsets/01_pset1/pset1_groupexercises_blank.ipynb)
-- [Topic modeling using DOJ press releases]()
+- [Topic modeling using DOJ press releases](https://github.com/rebeccajohnson88/qss20_slides_activities/blob/main/problemsets/02_pset2/pset2_partII_blank.ipynb)
 
 ## Princeton Sociology summer methods camp
 
@@ -71,7 +71,9 @@ At the end of the Methods Camp, students will be able to:
 ## Sociology 401/504 Advanced Data Analysis for the Social Sciences 
 
 **Primary Instructor**: [Brandon Stewart](https://scholar.princeton.edu/bstewart/teaching)
+
 **Course description**: Sociology 504 is the second class in a two-semester statistics sequence for graduate students in Sociology.  We also welcome undergraduates and graduate students from other departments.  The course assumes material covered in Soc500 and the Princeton Sociology Summer Methods Camp.  Soc504 covers maximum likelihood estimation, generalized linear models and assorted topics.
+
 **Role**: led a two hour hands-on programming/precepting section every other week (alternated with co-TA); helped create/revise problem sets.
 
 **Example slides I created**:
