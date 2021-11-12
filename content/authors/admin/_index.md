@@ -81,6 +81,7 @@ My research studies how social service bureaucracies use a mix of data and discr
 
 **Recent News**:
 
+- **September 2021**: I shared early results from a study that uses large-scale messaging data from an education technology app to study inequalities in family-school interactions before and during COVID-19 online pivots at the <a href="https://steinhardt.nyu.edu/priism/events/past-events">NYU Steinhardt Center for Practice and Research at the Intersection of Information, Society, and Methodology (PRIISM) seminar</a>
 - **August 2021**: I shared results from an RCT studying whether placing college navigators in public housing reduces race and SES inequalities in postsecondary education at the American Sociological Association paper session on Causes and Consequences of Educational Inequality
 - **July 2021**: My work with Dartmouth QSS students connecting data science coursework to efforts to improve labor rights enforcement was featured in this _Dartmouth News Weekly_ article: <a href="https://home.dartmouth.edu/news/2021/08/students-inspired-qss-tool-social-change">Students Inspired by QSS as a Tool for Social Change</a>
 - **June 2021**: Looking forward to partnering with Texas Riogrande Legal Aid (TRLA) on a grant we were awarded from the <a href = "https://www.dol.gov/agencies/oasp/evaluation/currentstudies/Department-of-Labor-Summer-Data-Challenge">Department of Labor's Summer Data Challenge on Equity and Underserved Communities</a>. We'll be studying the role of computational tools in improving equity in oversight of H-2A employers.
