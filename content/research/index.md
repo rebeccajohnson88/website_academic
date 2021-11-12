@@ -43,6 +43,15 @@ My working papers are divided into two areas:
 - [Pre-Analysis Plan for RCT](https://osf.io/qh75m)
 - [Pre-Analysis Plan for Retrospective Analysis](https://osf.io/6ubzm)
 
+4. **Cooper, DiDomenico, and Johnson (equal authorship). Using Supervised Machine Learning to Predict Nonresponse and Target Incentives**
+
+![ML field experiment](/img/nrb_process.png)
+
+**Abstract**: Demographic surveys are experiencing declining response rates that can contribute to nonresponse bias. The present working paper argues that new tools from supervised machine learning (SML) can improve efforts to mitigate that bias. We use the case of the American Housing Survey (AHS), a longitudinal survey developed by HUD and administered by Census Bureau, to show this application. First, we outline a model where survey planners with a finite quantity of resources (e.g., time; financial incentives) to prompt response can either target these resources based on a unit's nonresponse risk or randomly allocate these resources. Then, we outline a two-part field experiment designed to test the impact of risk-based targeting on nonresponse bias. In Section 4---\textit{nonresponse prediction}---we draw on large-scale data---internal files from the AHS that contain information on both responders and nonresponders; contact history data; contextual data---to show that we can use supervised machine learning (SML) to predict nonresponse with a relatively high degree of accuracy.
+We argue though that, in the case of longitudinal surveys, there may also be gains in switching from random targeting to a more parsimonious ``rule-based'' method that looks at a focal respondent's response history. Then, in Section 5---\textit{evaluating the impact of prediction-based targeting on survey bias}---we outline pre-registered analyses for a field experiment with the 2021 wave of the AHS, with results expected Spring 2022. Concluding, we discuss the generalizability of our findings to other cases of risk-based targeting.
+
+- [Working paper](https://www.dropbox.com/s/ztg2iqz4g9av4yi/rjohnson_MLnonresponsebias_workingpaper.pdf?dl=0)
+
 ## Area two: prioritization in social service bureaucracies 
 
 1. **Johnson. Rationing via Categorical Discretion: Unequal Monitoring of School Decisions and Stratification**
