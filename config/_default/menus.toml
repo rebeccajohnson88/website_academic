@@ -30,6 +30,11 @@
   url = "files/rjohnson_cv_website.pdf"
   weight = 50  
 
+[[main]]
+  name = "Interactive Visualization"
+  url = "interactive_viz/"
+  weight = 60    
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
