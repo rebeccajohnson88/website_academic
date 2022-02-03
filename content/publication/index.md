@@ -14,7 +14,7 @@ header:
 ---
 
 
-For a full list of publications, see my <a href="http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html">Google Scholar page</a>. Here, I summarize key publications across three research areas: (1) the empirics and ethics of algorithmic prioritization, (2) ethics and decision-making at the nexus of healthcare and K-12 education, and (3) social psychology and educational interventions.
+For a full list of publications, see my <a href="https://scholar.google.com/citations?user=UNZpOpcAAAAJ&hl=en">Google Scholar page</a>. Here, I summarize key publications across three research areas: (1) the empirics and ethics of algorithmic prioritization, (2) ethics and decision-making at the nexus of healthcare and K-12 education, and (3) social psychology and educational interventions.
 
 
 ## Empirics and ethics of algorithmic prioritization
