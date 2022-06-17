@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor, Quantitative Social Science
+role: Assistant Professor, McCourt School of Public Policy
 
 # Organizations/Affiliations
 organizations:
-- name: Dartmouth College
+- name: Georgetown University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rebecca.ann.johnson@dartmouth.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rj545@georgetown.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/beckyj1
@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my site! I'm an Assistant Professor at Dartmouth College in <a href="https://qss.dartmouth.edu/">Quantitative Social Science</a>, affiliated with the Department of Sociology and Consortium of Studies in Race, Migration, and Sexuality (RMS). I'm also a 2020-2021 Access to Justice Faculty Scholar with the <a href="http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html">American Bar Foundation</a>, an academic affiliate with the federal <a href="https://oes.gsa.gov/team/">Office of Evaluation Sciences</a>, and a visiting Data Science Fellow with <a href="https://thelab.dc.gov/">The Lab at DC</a>.
+Welcome to my site! I'm an Assistant Professor at Georgetown University's McCourt School of Public Policy, where I'll be teaching data science in the MS in <a href="https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/">Data Science for Public Policy</a> and affiliated with the a href="https://mdi.georgetown.edu/about-mdi/">Massive Data Institute</a>. I'm also a 2020-2021 Access to Justice Faculty Scholar with the <a href="http://www.americanbarfoundation.org/research/Fellowshipopportunities/ABF_JPB_Foundation_Access_to_Justice_Scholars_Program0/2020_Access_to_Justice_Scholars.html">American Bar Foundation</a>, an academic affiliate with the federal <a href="https://oes.gsa.gov/team/">Office of Evaluation Sciences</a>, and a visiting Data Science Fellow with <a href="https://thelab.dc.gov/">The Lab at DC</a>.
 
 My research studies how social service bureaucracies use a mix of data and discretion to decide who deserves help and focuses particularly on prioritization in K-12 schools. Substantively, I study how underfunded K-12 districts navigate three forces: legal mandates about categories of students to prioritize, fiscal realities, and family advocacy. Methodologically, I use a variety of methods, including tools from causal inference, computational text analysis, machine learning, interviews, and field experiments with large-scale administrative data. Other research focuses on prioritization in other areas of social policy, including rental housing, COVID-19 relief, and civil rights enforcement.
 
