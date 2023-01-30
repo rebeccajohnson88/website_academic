@@ -20,6 +20,19 @@ My working papers are divided into two areas:
 
 ## Area one: field experiments
 
+### Revise and resubmit
+
+1. **Wilson, Johnson (equal first authorship), Hatzimasoura, Holman, Moore, and Yokum. Evaluating the Effects of Nurse-Led Triage of 911 Calls: A Randomized Controlled Trial.** Revise and Resubmit at *Nature Medicine*
+
+**Abstract:** Each year, millions of Americans call 911 for time-sensitive issues that don’t require Emergency Medical Services (EMS). In need of medical help, these callers may treat 911 as an entry point into the healthcare system, yet an ambulance to the emergency department can harm both their own long-term health and the health of others. In a field experiment in Washington, DC, ($n = 6,053$ callers) we find that placing nurses directly into its 911 call center in order to triage low-acuity calls reduced unnecessary ambulance transports by 39\%. For Medicaid callers, it more than tripled primary care visits within 24 hours of their 911 call and reduced unnecessary emergency department visits by 14.9\%. While other 911 reforms have denied callers access to alternative resources, our findings show the value of reforming 911 by offering appropriate care rather than denying resources.
+ 
+- [Clinicaltrials.gov registration](https://clinicaltrials.gov/ct2/show/NCT05589168)
+- [Working paper](https://osf.io/n3kr4)
+- [Policy-focused blog post](https://thelabprojects.dc.gov/blog-ntl-results)
+
+
+### To be submitted
+
 1. **Johnson, DiDomenico, Balu, Turner. Navigating to Opportunity? A Randomized Controlled Trial of Placing College Navigators in Public Housing**
 
 ![Map of randomization sites](/img/amps_v_pov.png)
@@ -38,7 +51,7 @@ My working papers are divided into two areas:
 
 - [Pre-Analysis Plan](https://osf.io/jhmns/)
 
-3. **Johnson and Imai. Bridging Gaps? A Randomized Controlled Trial of A Summer Bridge Program for First-Generation/Low-Income Students**
+3. **Johnson. Simko, and Imai. Bridging Gaps? A Randomized Controlled Trial of A Summer Bridge Program for First-Generation/Low-Income Students**
 
 - [Pre-Analysis Plan for RCT](https://osf.io/qh75m)
 - [Pre-Analysis Plan for Retrospective Analysis](https://osf.io/6ubzm)
@@ -50,9 +63,11 @@ My working papers are divided into two areas:
 **Abstract**: Demographic surveys are experiencing declining response rates that can contribute to nonresponse bias. The present working paper argues that new tools from supervised machine learning (SML) can improve efforts to mitigate that bias. We use the case of the American Housing Survey (AHS), a longitudinal survey developed by HUD and administered by Census Bureau, to show this application. First, we outline a model where survey planners with a finite quantity of resources (e.g., time; financial incentives) to prompt response can either target these resources based on a unit's nonresponse risk or randomly allocate these resources. Then, we outline a two-part field experiment designed to test the impact of risk-based targeting on nonresponse bias. In Section 4---nonresponse prediction---we draw on large-scale data---internal files from the AHS that contain information on both responders and nonresponders; contact history data; contextual data---to show that we can use supervised machine learning (SML) to predict nonresponse with a relatively high degree of accuracy.
 We argue though that, in the case of longitudinal surveys, there may also be gains in switching from random targeting to a more parsimonious ``rule-based'' method that looks at a focal respondent's response history. Then, in Section 5---evaluating the impact of prediction-based targeting on survey bias---we outline pre-registered analyses for a field experiment with the 2021 wave of the AHS, with results expected Spring 2022. Concluding, we discuss the generalizability of our findings to other cases of risk-based targeting.
 
-- [Working paper](https://www.dropbox.com/s/ztg2iqz4g9av4yi/rjohnson_MLnonresponsebias_workingpaper.pdf?dl=0)
+- [Working paper](https://www.dropbox.com/s/mtyvszshwtdnetx/rjohnson_MLnonresponsebias_writingsample.pdf?dl=0)
 
 ## Area two: prioritization in social service bureaucracies 
+
+### To be submitted
 
 1. **Johnson. Rationing via Categorical Discretion: Unequal Monitoring of School Decisions and Stratification**
 
