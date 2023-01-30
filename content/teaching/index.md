@@ -17,6 +17,23 @@ I enjoy teaching both full-length courses and brief workshops on data science (d
 
 # Instructor of record
 
+## PPOL564/Data Science I: Data Science Foundations (Georgetown McCourt School of Public Policy)
+
+**Course description**: : This first course in the core data science sequence teaches Data Science for Public Policy (DSPP) students how to synthesize disparate, possibly unstructured data in order to draw meaningful insights. Topics covered include the fundamentals of object-oriented programming in Python; data wrangling and visualization; merging datasets using both defined join keys and probabilistic/”fuzzy” matching; data extraction via APIs; an introduction to SQL for manipulating data stored in databases; and what I call a “data science grab-bag”: fun topics in data science for working with or visualizing complex and unstructured data (text as data; spatial data; interactive visualizations).
+
+In addition, students will be exposed to command line and Git and Github for version control and reproducible research. The objective of the course is to teach students how incorporate data into their decision-making and analysis. No prior programming experience is assumed or required.
+
+**Goals**: After completing this course, the students will be able to:
+
+- Use Python to write user-defined functions
+- Use Python to work with various data structures: lists, numpy arrays, Pandas dataframes, and so on
+- Be able to manipulate a variety of data in Python: flat file data; spatial data; text data
+- Be able to produce static and interative visualizations in Python
+- Write SQL queries to pull, aggregate, and summarize data stored in database tables
+
+**Course github repo with all materials**: https://github.com/rebeccajohnson88/PPOL564_slides_activities
+
+
 ## QSS20/PBPL 40.01 Modern Statistical Computing (Dartmouth College)
 
 ![QSS20](/img/qss20_public.png)
