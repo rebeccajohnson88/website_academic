@@ -4,3 +4,7 @@
 # Hugo
 resources/
 public/
+
+# Ror Mac
+.Rhistory
+.DS_Store
