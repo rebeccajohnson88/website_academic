@@ -81,6 +81,10 @@ My research studies how social service bureaucracies use a mix of data and discr
 
 **Recent News**:
 
+- **January 2023**: I'll be sharing research in progress at the following spring conferences. Hope to see some of you there!
+  - <a href="https://seassoc.wordpress.com/2023-conference/">Sociology of Education Association Annual Conference (Asimolar, CA February 2023)</a>
+  - <a href="https://polarizationresearchlab.org/annual-meeting/">Polarization Lab Annual Meeting (Stanford, CA March 2023)</a>
+  - <a href="https://www.populationassociation.org/paa2023/home">Population Association of American Annual Meeting (New Orleans, LA April 2023)</a>
 - **August 2022**: I received a NAEd/Spencer postdoctoral fellowship to study how K-12 districts are deciding which students need high-dosage tutoring. <a href="https://naeducation.org/2022-naed-spencer-postdoctoral-fellows/">Read more here</a>.
 - **September 2021**: I shared early results from a study that uses large-scale messaging data from an education technology app to study inequalities in family-school interactions before and during COVID-19 online pivots at the <a href="https://steinhardt.nyu.edu/priism/events/past-events">NYU Steinhardt Center for Practice and Research at the Intersection of Information, Society, and Methodology (PRIISM) seminar</a>
 - **July 2021**: My work with Dartmouth QSS students connecting data science coursework to efforts to improve labor rights enforcement was featured in this _Dartmouth News Weekly_ article: <a href="https://home.dartmouth.edu/news/2021/08/students-inspired-qss-tool-social-change">Students Inspired by QSS as a Tool for Social Change</a>
