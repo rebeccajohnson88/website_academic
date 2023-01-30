@@ -8,7 +8,7 @@ abstract: "There is growing concern about governments’ use of algorithms to ma
 featured: false
 publication: "*2022 ACM Conference on Fairness, Accountability, and Transparency*"
 tags: ["fairness and transparency", "resource allocation", "social policy"]
-url_pdf: "https://doi.org/10.1145/3531146.3533223"
+url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3531146.3533223"
 doi: "10.1145/3531146.3533223"
 ---
 
