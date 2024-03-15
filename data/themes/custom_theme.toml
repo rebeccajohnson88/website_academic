@@ -5,13 +5,13 @@ name = "custom_colors"
 light = true
 
 # Primary
-primary = "#495F52"
+primary = "#758F89"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#495F52"
-menu_title = "#2b2b2b"
+menu_text = "#758F89"
+menu_text_active = "#758F89"
+menu_title = "#758F89"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
