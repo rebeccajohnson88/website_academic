@@ -8,6 +8,6 @@ abstract: "Social provision in the United States is highly decentralized. Signif
 featured: false
 publication: "*American Sociological Review*"
 doi: "10.1177/00031224221147899"
-url_pdf: "zhang-johnson-2023-hierarchies-in-the-decentralized-welfare-state-prioritization-in-the-housing-choice-voucher-program.pdf"
+url_pdf: "files/zhang-johnson-2023-hierarchies-in-the-decentralized-welfare-state-prioritization-in-the-housing-choice-voucher-program.pdf"
 ---
 
